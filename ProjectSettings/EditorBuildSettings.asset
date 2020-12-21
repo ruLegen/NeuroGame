@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 429e826e84bb09740811e28528daf30d
+  - enabled: 1
+    path: Assets/Scenes/MindWaveScreen.unity
+    guid: 535cc5d70dbd82f4cb303bcd7627fc6f
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 482de7e134e7c4644a8786ca8676818d
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 937ee856c6c128444a85dde9957cb7a4
+  m_configObjects: {}
